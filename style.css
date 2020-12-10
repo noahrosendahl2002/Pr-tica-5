@@ -1,0 +1,32 @@
+h1.tit{
+    font-weight: bold;
+    text-align: center;
+    color: #333333;
+    font-size: 40px;
+}
+body{
+    font-family: sans-serif;
+    background-color: hsl(200deg 15% 85%);
+    text-align: justify;
+}
+p.ejemplo{
+    background-color: hsl(200deg 15% 75%);
+}
+h1.dp{
+    color: hsl(200deg 15% 30%);
+    text-decoration: underline;
+    background-color: hsl(200deg 15% 55%);
+ 
+}
+span.azul{
+    color: hsl(200deg 100% 30%);
+}
+span.azulclaro{
+    color: hsl(200deg 100% 40%);
+    font-weight: bold;
+}
+h2{
+    font-weight: bold;
+    color: hsl(200deg 15% 40%);
+    background-color: hsl(200deg 15% 65%);
+}
